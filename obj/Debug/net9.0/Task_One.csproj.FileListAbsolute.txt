@@ -1,0 +1,14 @@
+F:\uni\C#\projects\Dot_Net_Course\Task_One\bin\Debug\net9.0\Task_One.exe
+F:\uni\C#\projects\Dot_Net_Course\Task_One\bin\Debug\net9.0\Task_One.deps.json
+F:\uni\C#\projects\Dot_Net_Course\Task_One\bin\Debug\net9.0\Task_One.runtimeconfig.json
+F:\uni\C#\projects\Dot_Net_Course\Task_One\bin\Debug\net9.0\Task_One.dll
+F:\uni\C#\projects\Dot_Net_Course\Task_One\bin\Debug\net9.0\Task_One.pdb
+F:\uni\C#\projects\Dot_Net_Course\Task_One\obj\Debug\net9.0\Task_One.GeneratedMSBuildEditorConfig.editorconfig
+F:\uni\C#\projects\Dot_Net_Course\Task_One\obj\Debug\net9.0\Task_One.AssemblyInfoInputs.cache
+F:\uni\C#\projects\Dot_Net_Course\Task_One\obj\Debug\net9.0\Task_One.AssemblyInfo.cs
+F:\uni\C#\projects\Dot_Net_Course\Task_One\obj\Debug\net9.0\Task_One.csproj.CoreCompileInputs.cache
+F:\uni\C#\projects\Dot_Net_Course\Task_One\obj\Debug\net9.0\Task_One.dll
+F:\uni\C#\projects\Dot_Net_Course\Task_One\obj\Debug\net9.0\refint\Task_One.dll
+F:\uni\C#\projects\Dot_Net_Course\Task_One\obj\Debug\net9.0\Task_One.pdb
+F:\uni\C#\projects\Dot_Net_Course\Task_One\obj\Debug\net9.0\Task_One.genruntimeconfig.cache
+F:\uni\C#\projects\Dot_Net_Course\Task_One\obj\Debug\net9.0\ref\Task_One.dll
