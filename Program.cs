@@ -24,7 +24,7 @@ namespace Task_One
 
             Console.WriteLine("What's the number of small carpets? ");
             int? numOfSmallCarpet= Convert.ToInt16(Console.ReadLine());
-            Console.WriteLine("What's the number of small carpets? ");
+            Console.WriteLine("What's the number of large carpets? ");
             int? numOfLargeCarpet= Convert.ToInt16(Console.ReadLine());
             int? costBeforeTaxes = ((numOfSmallCarpet * smallCarpetPrice) + (numOfLargeCarpet * largeCarpetPrice));
             double? costAfterTaxes = (costBeforeTaxes * taxRate) + costBeforeTaxes;
